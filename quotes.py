@@ -1,5 +1,4 @@
 __module_name__ = "Quotes Adder Plugin"
-__module_name__ = "Quotes Adder Plugin"
 __module_version__ = "0.5"
 __module_description__ = "Add quotes as you want."
 __author__ = "Douglas Brunal (AKA) Frankity"
